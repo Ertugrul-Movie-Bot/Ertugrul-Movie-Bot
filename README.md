@@ -1,6 +1,6 @@
 # Ertugrul-Movie-Bot
 Very Simple Bot Auto Filter bot
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Ertugrul+Bot+Repo!;created+by+SultanMehmed_TG!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Ertugrul+Bot+Repo!;created+by+SultanMehmed_TG!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+features)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
