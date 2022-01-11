@@ -2,6 +2,8 @@
 Very Simple Bot Auto Filter bot
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Ertugrul+Bot+Repo!;created+by+SultanMehmed_TG!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+features)
 </p>
+
+[Movie Group](https://t.me/Filmhome66)
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
@@ -96,7 +98,7 @@ logger - Get log file
 ## Support
 Contact Me On [Telegram](https://t.me/Sultan_of_TG)
 
-[Movie Group](https://t.me/Team_annaben)
+[Movie Group](https://t.me/Filmhome66)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
