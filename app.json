@@ -1,7 +1,7 @@
 {
-    "name": "ANNA_BEN_BOT",
+    "name": "Ertugrul-Movie-Bot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/87fd3f1437dbd06644b20.jpg",
+    "logo": "https://telegra.ph/file/ddf1b3e0c20f5fadf10d7.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -44,6 +44,10 @@
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "value": ""
+        },
+        "FILE_STORE_CHANNEL": {
+            "description": "Channel from were file store links of posts should be made.Separate multiple IDs by space",
             "value": ""
         },
         "SUPPORT_CHAT": {
